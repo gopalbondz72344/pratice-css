@@ -1,0 +1,45 @@
+.in_stock 
+{
+    color: green;
+}
+.Add_to_cart
+{
+    background-color: rgb(255, 216, 20);
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 18px;
+    height: 36px;
+    width: 150px;
+    margin-right: 8px;
+}
+.Buy_now
+{
+    background-color: rgb(255, 164, 28);
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 18px;
+    height: 36px;
+    width: 150px;
+}
+.sign_up
+{
+    background-color: rgb(46,164,79);
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    height: 36px;
+    width: 100px;
+    margin-left: 8px;
+    border-radius: 8px;
+}
+.back_to_amazon
+{
+    color: rgb(0, 113, 133);
+}
